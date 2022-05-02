@@ -147,6 +147,7 @@ section {
 	border: none;
 	cursor: pointer;
 	margin-left: 25px;
+	border-radius: 10px;
 }
 
 .sessao-bemvindo-btn:hover, form input[type=submit]:hover {
@@ -175,6 +176,7 @@ section {
 	background-size: cover;
 	display: inline-block;
 	height: 200px;
+	border-radius: 10px;
 }
 
 #sessao-doces1, #sessao-doces2, #sessao-doces3 {
