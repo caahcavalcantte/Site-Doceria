@@ -119,6 +119,7 @@ section {
 	background-position: center;
 	background-size: cover;
 	float: left;
+	border-radius: 10px;
 }
 
 .sessao-descricao {
